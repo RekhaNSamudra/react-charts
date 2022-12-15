@@ -1,8 +1,8 @@
 # react-charts
 React charts using faker data on json server
 
-This project includes BarChart & PieCharts from chart.js library.
-Faker.js is used to generate bulk dummy data of 100000 users and json server is used as dummy Backend API.
+This project includes BarChart & PieCharts from chart.js library. 
+Faker.js is used to generate bulk dummy data of 100000 users. And to render data dynamically in the charts, json server is used as dummy Backend API.
 
 Run this project in VS code or elsewhere as
 1. To run the server:- 
